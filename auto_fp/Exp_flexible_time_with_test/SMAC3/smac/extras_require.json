@@ -1,0 +1,14 @@
+{
+  "gp": [
+    "emcee>=2.1.0",
+    "scikit-optimize"
+  ],
+  "lhd": [
+    "pyDOE"
+  ],
+  "documentation": [
+    "sphinx",
+    "sphinx_rtd_theme",
+    "sphinx-gallery==0.5.0"
+  ]
+}

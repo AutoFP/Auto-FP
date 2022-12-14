@@ -1,0 +1,11 @@
+numpy==1.18.0
+scipy>=1.4.2
+psutil
+pynisher>=0.4.1
+ConfigSpace>=0.4.9,<0.5
+scikit-learn==0.23.2
+pyrfr>=0.8.0
+joblib
+lazy_import
+scikit-optimize
+emcee
